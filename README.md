@@ -1,4 +1,4 @@
 # baran
-Baran is [Barn](https://github.com/barn-lang/barn) programming language package manager.
+Baran is unofficial [Barn](https://github.com/barn-lang/barn) programming language package manager written in Go.
 
 https://github.com/barn-lang/barn
